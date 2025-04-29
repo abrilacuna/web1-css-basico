@@ -1,0 +1,96 @@
+/* Estilos para la página web */
+body {
+    background-color: #d16b6b;
+    font-size: 16px;
+
+
+}
+
+h1 {
+    font-size: 36px;
+    color: #960000;
+
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+#fondo {
+    background-color: #aa3b3b;
+    /* modificar el color a elección */
+}
+
+p a {
+    color: #333;
+    text-decoration: none;
+}
+
+.parrafo4 {
+    text-transform: lowercase;
+    color: aliceblue;
+
+}
+
+.parrafo3 {
+
+    color: bisque;
+}
+
+.parrafo2 {
+    font-size: x-large;
+    color: antiquewhite
+}
+
+.parrafo1 {
+    font: weight 700px;
+    color: antiquewhite;
+}
+
+.parrafo5 {
+    font-style: oblique;
+    color: antiquewhite;
+}
+
+.parrafo6 {
+    font-family: 'Courier New', Courier, monospace;
+    color: antiquewhite;
+}
+
+.parrafo7 {
+    text-align: right;
+    color: antiquewhite;
+}
+
+.parrafo8 {
+    text-decoration: double;
+    color: antiquewhite;
+}
+
+.parrafo9 {
+    text-transform: capitalize;
+    color: antiquewhite;
+}
+
+.parrafo10 {
+    letter-spacing: 0cqmax;
+    color: antiquewhite;
+}
+
+.parrafo11 {
+    line-height: 0cm;
+    color: antiquewhite;
+}
