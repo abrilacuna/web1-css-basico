@@ -94,3 +94,6 @@ p a {
     line-height: 0cm;
     color: antiquewhite;
 }
+.foto1 div img{
+    display:inline-block;
+}
