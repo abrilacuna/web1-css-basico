@@ -1,0 +1,103 @@
+/*footer*/
+
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(82, 75, 75);
+    color: white;
+    line-height: 40px;
+
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+    border-bottom: solid 0.1rem black;
+    padding-left: 70px;
+}
+
+.iconos {
+    display: flex;
+    width: 30px;
+}
+
+.redes {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    padding-right: 80px;
+
+}
+
+.ubi {
+
+    width: 20px;
+}
+
+.subfooter-container {
+    display: flex;
+    gap: 20px;
+    padding-right: 40px;
+
+}
+
+.aliniados {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: darkgrey
+}
+
+.parte1 li a {
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+   
+
+}
+
+h2 {
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+ul li a {
+    font-weight: 400;
+    color: darkgray;
+    text-transform: uppercase;
+}
+
+.copy {
+    color: dimgrey;
+}
+
+.arg {
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+
+}
+
+.sub a {
+    color: dimgrey;
+}
+
+.boton {
+
+    color: azure;
+    font-weight: 800;
+}
+.wpp{
+    bottom: 30px;
+    position:fixed;
+    right: 30px;
+}
